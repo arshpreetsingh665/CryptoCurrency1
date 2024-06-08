@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/homeFragment"
+    android:title="@string/home"
+    android:icon="@drawable/home_icon_silhouette_svgrepo_com"/>
+    <item
+        android:id="@+id/marketFragment"
+        android:title="@string/market"
+        android:icon="@drawable/stock_market_svgrepo_com"/>
+<!--    <item-->
+<!--        android:id="@+id/watchlistFragment"-->
+<!--        android:title="@string/watchlist"-->
+<!--        android:icon="@drawable/favorite_svgrepo_com"/>-->
+</menu>
